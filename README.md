@@ -220,6 +220,7 @@
  * [What most managers don’t know about leading diverse teams](https://qz.com/work/1901448/how-to-lead-a-diverse-team-effectively/) - Some helpful insights in leading more diverse teams
  * [Twitter Chief Design Officer Dantley Davis on building the most diverse team in tech](https://www.protocol.com/twitter-dantley-davis-interview) - Some interesting thoughts on why it's important to have a diverse team and how to build a diverse team.
  * [How to decide when to fire someone](https://practicebusiness.co.uk/how-to-decide-when-to-fire-someone) - This is never an easy decision to make, and this article has some helpful tips on when to decide to let someone go.
+ * [How Can You Deal with Late Projects?](https://adevait.com/blog/workplace/engineering-management-late-projects) - An interesting break down of how engineering managers can deal with late projects.
  * [Coaching people through the Change Curve](https://www.insights.com/resources/coaching-people-through-the-change-curve/) - A helpful article that provides insights into how to prepare teams for an organizational structure change
  * [How I Approach the Toughest Decisions](https://barackobama.medium.com/how-i-approach-the-toughest-decisions-dc1b165cdf2d) - A great article from Barack Obama about how he approaches making tough decisions.
  * [Feedback In Times of Crisis](https://www.linkedin.com/pulse/feedback-times-crisis-karen-casella/) - Some great insights into providing feedback during times of a crisis.
